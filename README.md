@@ -31,9 +31,8 @@ More information at [swingbicoin.io](https://swingbicoin.io)
 <table>
 <th>Phase</th><th>Block Height</th><th>Masternode</th><th>POS</th><th>TotalReward</th>
 <tr><td>Phase 1</td><td>201-21601</td><td>0.8SWBI</td><td>0.2SWBI</td><td>21400SWBI</td></tr>
-<tr><td>Phase 2</td><td>21602-547202</td><td>960SWBI</td><td>240SWBI</td><td>630,720,000SWBI</td></tr>
-<tr><td>Phase 3</td><td>547203-1598403</td><td>480SWBI</td><td>120SWBI</td><td>630,720,000SWBI</td></tr>
-<tr><td>Phase 4</td><td>1598404-3700804</td><td>240SWBI</td><td>60SWBI</td><td>630,720,000SWBI</td></tr>
-<tr><td>Phase 5</td><td>3700805-7905605</td><td>116SWBI</td><td>29SWBI</td><td>609,696,000SWBI</td></tr>
-<tr><td>Phase 6</td><td>7905606-20868066</td><td>40SWBI</td><td>10SWBI</td><td>648,123,000SWBI</td></tr>
+<tr><td>Phase 2</td><td>21602-547202</td><td>96SWBI</td><td>24SWBI</td><td>630,720,000SWBI</td></tr>
+<tr><td>Phase 3</td><td>547203-1598403</td><td>480SWBI</td><td>12SWBI</td><td>630,720,000SWBI</td></tr>
+<tr><td>Phase 4</td><td>1598404-3700804</td><td>24SWBI</td><td>6SWBI</td><td>630,720,000SWBI</td></tr>
+<tr><td>Phase 5</td><td>3700805-7905605</td><td>11SWBI</td><td>3SWBI</td><td>609,696,000SWBI</td></tr>
 </table>
