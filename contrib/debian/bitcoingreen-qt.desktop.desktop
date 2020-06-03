@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SwingbiCoin
+Comment=SwingbiCoin P2P Cryptocurrency
+Exec=swingbicoin-qt %u
+Terminal=false
+Type=Application
+Icon=swingbicoin128
+MimeType=x-scheme-handler/swingbicoin;
+Categories=Office;Finance;
+Name[en_US]=swingbicoin-qt.desktop

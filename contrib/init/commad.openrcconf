@@ -1,0 +1,26 @@
+# /etc/conf.d/swingbicoind: config file for /etc/init.d/swingbicoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/swingbicoin/swingbicoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/swingbicoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/swingbicoind.pid"
+
+# Where to write swingbicoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/swingbicoind"
+
+# User and group to own swingbicoind process
+#BITCOIND_USER="swingbicoin"
+#BITCOIND_GROUP="swingbicoin"
+
+# Path to swingbicoind executable
+#BITCOIND_BIN="/usr/bin/swingbicoind"
+
+# Nice value to run swingbicoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

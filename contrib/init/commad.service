@@ -1,0 +1,26 @@
+[Unit]
+Description=SwingbiCoin's distributed currency daemon
+After=network.target
+
+[Service]
+User=swingbicoin
+Group=swingbicoin
+
+Type=forking
+PIDFile=/var/lib/swingbicoind/swingbicoind.pid
+
+ExecStart=/usr/bin/swingbicoind -daemon -pid=/var/lib/swingbicoind/swingbicoind.pid \
+          -conf=/etc/swingbicoin/swingbicoin.conf -datadir=/var/lib/swingbicoind
+
+ExecStop=-/usr/bin/swingbicoin-cli -conf=/etc/swingbicoin/swingbicoin.conf \
+         -datadir=/var/lib/swingbicoind stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
