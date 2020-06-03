@@ -12,18 +12,18 @@ More information at [swingbicoin.io](https://swingbicoin.io)
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>4,349,999,600 SWBI</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>3,149,999,955 SWBI</td></tr>
-<tr><td>Premine</td><td>4,349,999,600 SWBI*</td></tr>
+<tr><td>Max Coin Supply (PoW Phase)</td><td>435,000,005 SWBI</td></tr>
+<tr><td>Max Coin Supply (PoS Phase)</td><td>314,999,995 SWBI</td></tr>
+<tr><td>Premine</td><td>435,000,005  SWBI*</td></tr>
 </table>
 
-* 4,349,999,600 SWBI Premine / Masternode stake amount = 100,000 SWBI
+* 435,000,005  SWBI Premine / Masternode stake amount = 100,000 SWBI
 
 ### PoW Rewards Breakdown
 
 <table>
 <th>Block Height</th><th>Masternodes</th><th>Miner</th><th>Budget</th>
-<tr><td>1-200</td><td>0</td><td>100% (4,349,999,600 SWBI)</td><td>N/A</td></tr>
+<tr><td>1-200</td><td>0</td><td>100% (435,000,005 SWBI)</td><td>N/A</td></tr>
 </table>
 
 ### PoS Rewards Breakdown
